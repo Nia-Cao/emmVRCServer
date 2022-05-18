@@ -2,6 +2,8 @@
 
 c# API implementation for emmVRC
 
+Assume this is abandoned, I've stopped playing VRC and obviously have no further need for this. I may fix a few bugs in the future, but for now I'm moving onto bigger and better projects.
+
 This is a project to replicate the emmVRC API server in C# using the .net WEB API. Based on work from ERROR#0418 and reverse-engineering the emmVRC mod itself.
 
 Basic core functions are now implemented. First code release is a bit messy and has debug info in the terminal.
@@ -56,4 +58,4 @@ I recommend building this from source even if any binaries end up in the repo as
 Future plans may include RemodCE support too using the same DB. REDIS support could also be added although for a personal server that seems a bit overkill.
 
 
-Jen xoxo
+Niamh xoxo
