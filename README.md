@@ -4,6 +4,8 @@ c# API implementation for emmVRC
 
 Assume this is abandoned, I've stopped playing VRC and obviously have no further need for this. I may fix a few bugs in the future, but for now I'm moving onto bigger and better projects.
 
+--As the network has been changed I may have a look at it and see if it is worth my time to re-write this garbo, but realistically the effort of simply re-downloading the mod dll is too much for me considering I don't use it any more. I play on Quest now when I do and even then it's only for movie worlds.
+
 This is a project to replicate the emmVRC API server in C# using the .net WEB API. Based on work from ERROR#0418 and reverse-engineering the emmVRC mod itself.
 
 Basic core functions are now implemented. First code release is a bit messy and has debug info in the terminal.
